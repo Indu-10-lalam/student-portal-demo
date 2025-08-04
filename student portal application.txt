@@ -1,0 +1,10 @@
+ student portal application
+ 
+name: indu lalam
+roll no:31
+suc : 2367250331
+college : Aditya degree college
+branch : gwk
+section : bsc(ds)
+phno: 8897515491
+email: indulalam1@gmail.com
